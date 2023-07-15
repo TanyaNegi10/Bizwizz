@@ -1,15 +1,14 @@
 # Bizwizz
-This web page is made using html and CSS ,flexbox
+This web page is made using html, CSS nad flexbox.
 
-![Screenshot (5)](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/25f7b813-a499-4148-86ea-baf01ad357d1)
+![page1](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/5e184403-b859-42e5-80c0-59148ee095f7)
 
-![Screenshot (6)](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/d9388c1e-a2c2-4b73-9add-14fc2d07e27b)
+![page2](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/9c5e7801-8ab1-40d6-b00f-e53ff4cacfe2)
 
-![Screenshot (7)](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/61ef69bf-36d8-42d3-af98-1f918ae011ca)
+![page3](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/8f8c7388-03da-4f6a-90bf-688f41f17de7)
 
-![Screenshot (8)](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/e01bace5-7664-4e33-ab60-86a0360e248e)
+![page4](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/cd641350-7766-4d47-8565-fa1444ce65f9)
 
-![Screenshot (9)](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/dc3e0ede-fe62-4143-9eee-2ac366972426)
+![page5](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/47004df1-e071-4872-b2da-76361566406f)
 
-![Screenshot (11)](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/829f8a70-5a0c-4931-9ef2-11a1e4bf3aec)
-
+![page6](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/d4b0b59c-84fc-47b0-a8b8-437301be1489)
