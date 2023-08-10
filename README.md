@@ -1,5 +1,5 @@
 # Bizwizz
-This web page is made using html, CSS nad flexbox.
+This web page is made using html, CSS and flexbox.
 
 ![page1](https://github.com/TanyaNegi10/Bizwizz/assets/131293785/5e184403-b859-42e5-80c0-59148ee095f7)
 
